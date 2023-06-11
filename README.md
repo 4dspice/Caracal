@@ -3,6 +3,8 @@ A Voron V0 inspired minimalist and scalable CoreXY 3D printer focused on ease of
 
 Not counting the corner brackets (which are unecessary if the frame is built using blind joints), all sides of the printer are flush to facilitate addition of side panels for enclosed builds.
 
-Still very WIP 
+Still very WIP, STLs subject to change
+
+BOM https://docs.google.com/spreadsheets/d/1f__scBLHZBergLk1_uNWVnCNQPU6N8hWUedBBvM0iNw/edit#gid=0
 
 ![image](https://github.com/suslemon/Caracal/assets/117639659/d312ad4a-8186-4316-83a2-2743223ee99e)
