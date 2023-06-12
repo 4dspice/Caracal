@@ -9,4 +9,6 @@ I printed all my parts with 0.3mm layer height, 0.5mm walls, 4 walls, 4 tops/bot
 
 BOM https://docs.google.com/spreadsheets/d/1f__scBLHZBergLk1_uNWVnCNQPU6N8hWUedBBvM0iNw/edit#gid=0
 
+Community Discord: https://discord.gg/pxpvCewKF5 
+
 ![image](https://github.com/suslemon/Caracal/assets/117639659/d312ad4a-8186-4316-83a2-2743223ee99e)
