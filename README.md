@@ -1,6 +1,6 @@
 # Caracal
 
-/!\ This project is in alpha stage with limited parts testing which are subject to change, please make sure to report any issues in  https://github.com/suslemon/Caracal/issues/1 
+/!\ This project is in alpha stage with limited parts testing which are subject to change, please make sure to report any problems in  https://github.com/suslemon/Caracal/issues/1 
 
 A Voron V0 inspired minimalist and modular CoreXY 3D printer focused on ease of parts sourcing, reduced number of fasterner types, self-printable parts and fast and simple assembly. It is also tweaked to accept spare/salvaged parts from another printer like an Ender 3 to further minimise costs. 
 
