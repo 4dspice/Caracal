@@ -1,5 +1,5 @@
 # Caracal
-A Voron V0 inspired minimalist and scalable CoreXY 3D printer focused on ease of parts sourcing, reduced number of fasterner types, self-printable parts and fast and simple assembly.
+A Voron V0 inspired minimalist and scalable CoreXY 3D printer focused on ease of parts sourcing, reduced number of fasterner types, self-printable parts and fast and simple assembly. It is also tweaked to accept spare/salvaged parts from another printer like an Ender 3 to further minimise costs. 
 
 Not counting the corner brackets (which are unecessary if the frame is built using blind joints), all sides of the printer are flush to facilitate addition of side panels for enclosed builds.
 
