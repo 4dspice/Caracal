@@ -18,4 +18,4 @@ BOM https://docs.google.com/spreadsheets/d/1f__scBLHZBergLk1_uNWVnCNQPU6N8hWUedB
 
 Community Discord: https://discord.gg/pxpvCewKF5 
 
-![image](https://github.com/suslemon/Caracal/assets/117639659/d312ad4a-8186-4316-83a2-2743223ee99e)
+![image](https://github.com/suslemon/Caracal/assets/117639659/be538d95-dd21-4bee-9ab1-6f600c13d89a)
