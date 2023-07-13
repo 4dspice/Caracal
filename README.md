@@ -12,7 +12,7 @@ Not counting the corner brackets (which are unecessary if the frame is built usi
 
 Still very WIP, STLs subject to change
 
-I printed all my parts with 0.3mm layer height, 0.5mm walls, 4 walls, 4 tops/bottoms, 30% infill (cubic) in eSun ABS+ (should be perfectly fine in PLA for non-enclosed builds) 
+I printed all my parts with 0.2mm layer height, 0.4mm walls, 4 walls, 4 tops/bottoms, 30% infill (cubic) in eSun ABS+ (should be perfectly fine in PLA for non-enclosed builds) 
 
 BOM https://docs.google.com/spreadsheets/d/1f__scBLHZBergLk1_uNWVnCNQPU6N8hWUedBBvM0iNw/edit#gid=0
 
