@@ -4,8 +4,6 @@
 
 A Voron V0 inspired minimalist and modular CoreXY 3D printer focused on ease of parts sourcing, all parts designed to be printed without supports, BOM as short as possible and fast and simple assembly. It is also tweaked to accept spare/salvaged parts from another printer like an Ender 3 to further minimise costs. 
 
-All part have been intentionally print tested with very weak settings of 1 wall at 0.4mm line width and no infill for worst case stiffness tests. 
-
 Caracal was designed with modding in mind so that requirements for high performance printing could be met with minimal effort. 
 
 Not counting the corner brackets (which are unecessary if the frame is built using blind joints), all sides of the printer are flush to facilitate addition of side panels for enclosed builds.
@@ -18,4 +16,4 @@ BOM https://docs.google.com/spreadsheets/d/1f__scBLHZBergLk1_uNWVnCNQPU6N8hWUedB
 
 Community Discord: https://discord.gg/pxpvCewKF5 
 
-![image](https://github.com/suslemon/Caracal/assets/117639659/be538d95-dd21-4bee-9ab1-6f600c13d89a)
+![image](https://github.com/suslemon/Caracal/assets/117639659/df405c85-1987-4a48-aadf-9c13a8712e9e)
