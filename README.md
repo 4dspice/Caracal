@@ -16,6 +16,7 @@ BOM https://docs.google.com/spreadsheets/d/1f__scBLHZBergLk1_uNWVnCNQPU6N8hWUedB
 
 
 YouTube Channel: https://youtube.com/@4dspice
+
 Community Discord: https://discord.gg/pxpvCewKF5 
 
 ![image](https://github.com/suslemon/Caracal/assets/117639659/df405c85-1987-4a48-aadf-9c13a8712e9e)
