@@ -19,4 +19,4 @@ YouTube Channel: https://youtube.com/@4dspice
 
 Community Discord: https://discord.gg/pxpvCewKF5 
 
-![image](https://github.com/suslemon/Caracal/assets/117639659/df405c85-1987-4a48-aadf-9c13a8712e9e)
+![Screenshot from 2023-07-24 15-38-15](https://github.com/4dspice/Caracal/assets/117639659/908c4fb5-a371-48cb-9f9f-b9b9be925be5)
