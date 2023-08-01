@@ -16,4 +16,4 @@ YouTube Channel: https://youtube.com/@4dspice
 Community Discord: https://discord.gg/pxpvCewKF5 
 
 
-![Screenshot from 2023-07-25 15-12-32](https://github.com/4dspice/Caracal/assets/117639659/f74e373b-d407-4628-8831-a895854e3769)
+![image](https://github.com/4dspice/Caracal/assets/117639659/bdb04f32-8de3-495a-8442-eec87fdb445f)
