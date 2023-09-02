@@ -1,6 +1,6 @@
 # Caracal
 
-/!\ This project is in beta stage with parts still subject to change, please make sure to report any problems in  https://github.com/suslemon/Caracal/issues/1 
+/!\ This printer is still relatively new please make sure to report any problems in  https://github.com/suslemon/Caracal/issues/1 
 
 A fast, minimalist and modular CoreXY 3D printer that's easy to build and source parts for. All parts designed to be printed without supports. It uses 2020 extrusions and Nema 17 stepper motors. The BOM is kept as tame as possible and avoids the use of difficult to find parts. Some parts can be salvaged from other printers like an Ender 3 to further minimise costs. The printer can easily be enclosed if built using blind joints as all sides are completely flush without brackets.
 
